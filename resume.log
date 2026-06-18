@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.6.18)  18 JUN 2026 15:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.6.18)  18 JUN 2026 15:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -220,96 +220,6 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 )
-(/usr/share/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
-\c@tracingmulticols=\count300
-\mult@box=\box55
-\multicol@leftmargin=\dimen167
-\c@unbalance=\count301
-\c@collectmore=\count302
-\doublecol@number=\count303
-\multicoltolerance=\count304
-\multicolpretolerance=\count305
-\full@width=\dimen168
-\page@free=\dimen169
-\premulticols=\dimen170
-\postmulticols=\dimen171
-\multicolsep=\skip55
-\multicolbaselineskip=\skip56
-\partial@page=\box56
-\last@line=\box57
-\mc@boxedresult=\box58
-\maxbalancingoverflow=\dimen172
-\mult@rightbox=\box59
-\mult@grightbox=\box60
-\mult@firstbox=\box61
-\mult@gfirstbox=\box62
-\@tempa=\box63
-\@tempa=\box64
-\@tempa=\box65
-\@tempa=\box66
-\@tempa=\box67
-\@tempa=\box68
-\@tempa=\box69
-\@tempa=\box70
-\@tempa=\box71
-\@tempa=\box72
-\@tempa=\box73
-\@tempa=\box74
-\@tempa=\box75
-\@tempa=\box76
-\@tempa=\box77
-\@tempa=\box78
-\@tempa=\box79
-\@tempa=\box80
-\@tempa=\box81
-\@tempa=\box82
-\@tempa=\box83
-\@tempa=\box84
-\@tempa=\box85
-\@tempa=\box86
-\@tempa=\box87
-\@tempa=\box88
-\@tempa=\box89
-\@tempa=\box90
-\@tempa=\box91
-\@tempa=\box92
-\@tempa=\box93
-\@tempa=\box94
-\@tempa=\box95
-\@tempa=\box96
-\@tempa=\box97
-\@tempa=\box98
-\c@minrows=\count306
-\c@columnbadness=\count307
-\c@finalcolumnbadness=\count308
-\last@try=\dimen173
-\multicolovershoot=\dimen174
-\multicolundershoot=\dimen175
-\mult@nat@firstbox=\box99
-\colbreak@box=\box100
-\mc@col@check@num=\count309
-\g__mc_curr_col_int=\count310
-)
-(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
-
-\f@nch@headwidth=\skip57
-\f@nch@offset@elh=\skip58
-\f@nch@offset@erh=\skip59
-\f@nch@offset@olh=\skip60
-\f@nch@offset@orh=\skip61
-\f@nch@offset@elf=\skip62
-\f@nch@offset@erf=\skip63
-\f@nch@offset@olf=\skip64
-\f@nch@offset@orf=\skip65
-\f@nch@height=\skip66
-\f@nch@footalignment=\skip67
-\f@nch@widthL=\skip68
-\f@nch@widthC=\skip69
-\f@nch@widthR=\skip70
-\@temptokenb=\toks21
-)
 (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 )
@@ -336,39 +246,39 @@ Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
 
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks22
-\XKV@tempa@toks=\toks23
-\XKV@tempb@toks=\toks24
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
+\XKV@tempb@toks=\toks23
 )
-\XKV@depth=\count311
+\XKV@depth=\count300
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
-Package hyperref Info: Option `colorlinks' set `true' on input line 21.
+Package hyperref Info: Option `colorlinks' set `true' on input line 19.
 
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count312
+\l__color_backend_stack_int=\count301
 ) (./resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -403,7 +313,7 @@ LaTeX Font Info:    ... okay on input line 37.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 37.
+Package hyperref Info: Link coloring ON on input line 30.
 (./resume.out) (./resume.out)
 \@outlinefile=\write3
 \openout3 = `resume.out'.
@@ -411,20 +321,20 @@ Package hyperref Info: Link coloring ON on input line 37.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count313
-\scratchdimen=\dimen176
-\scratchbox=\box101
-\nofMPsegments=\count314
-\nofMParguments=\count315
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count316
-\MPscratchDim=\dimen177
-\MPnumerator=\count317
-\makeMPintoPDFobject=\count318
-\everyMPtoPDFconversion=\toks26
+\scratchcounter=\count302
+\scratchdimen=\dimen167
+\scratchbox=\box55
+\nofMPsegments=\count303
+\nofMParguments=\count304
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count305
+\MPscratchDim=\dimen168
+\MPnumerator=\count306
+\makeMPintoPDFobject=\count307
+\everyMPtoPDFconversion=\toks25
 )
-\c@mv@tabular=\count319
-\c@mv@boldtabular=\count320
+\c@mv@tabular=\count308
+\c@mv@boldtabular=\count309
 
 
 ! Package xcolor Error: Undefined color `RULEGRAY'.
@@ -433,7 +343,7 @@ See the xcolor package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.47 \section*{Summary}
+l.40 \section*{Summary}
                        
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -445,7 +355,7 @@ See the xcolor package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.51 \section*{Technical Skills}
+l.44 \section*{Technical Skills}
                                 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -457,7 +367,7 @@ See the xcolor package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.63 \section*{Flagship Project}
+l.56 \section*{Flagship Project}
                                 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -469,7 +379,7 @@ See the xcolor package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.75 \section*{Selected Projects}
+l.68 \section*{Selected Projects}
                                  
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -481,7 +391,7 @@ See the xcolor package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.92 \section*{Experience}
+l.85 \section*{Experience}
                           
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -493,16 +403,16 @@ See the xcolor package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.108 \section*{Education}
+l.101 \section*{Education}
                           
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fon
-ts/enc/dvips/cm-super/cm-super-t1.enc}
+[1
 
-{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./resume.au
-x)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
+/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/cm-s
+uper/cm-super-ts1.enc}] (./resume.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -511,20 +421,20 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10779 strings out of 469515
- 167254 string characters out of 5470807
- 611285 words of memory out of 5000000
- 39324 multiletter control sequences out of 15000+600000
+ 10289 strings out of 469515
+ 158379 string characters out of 5470807
+ 597997 words of memory out of 5000000
+ 38842 multiletter control sequences out of 15000+600000
  634907 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,11n,79p,1195b,478s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,1195b,474s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb></usr/share/t
 exmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts
 /type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/c
 m-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm090
 0.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/sha
 re/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on resume.pdf (1 page, 141123 bytes).
+Output written on resume.pdf (1 page, 138671 bytes).
 PDF statistics:
  61 PDF objects out of 1000 (max. 8388607)
  42 compressed objects within 1 object stream
