@@ -1,0 +1,113 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[a4paper,margin=0.6in]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{parskip}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage[T1]{fontenc}
+\usepackage{lato}
+
+\setlength{\parskip}{1pt plus 1pt minus 1pt}
+
+\definecolor{linkblue}{RGB}{0,102,204}
+\definecolor{rulegray}{RGB}{120,120,120}
+\hypersetup{
+ colorlinks=true,
+ urlcolor=linkblue,
+ linkcolor=linkblue
+}
+
+\titleformat{\section}{\large\bfseries\uppercase}{}{0em}{}[\vspace{1pt}\color{rulegray}\hrule height 0.6pt]
+\titlespacing*{\section}{0pt}{4pt}{2pt}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\textit{Seamoon Pandey}}
+\lhead{\textit{AI \& Backend Engineer}}
+\cfoot{}
+\renewcommand{\headrulewidth}{0pt}
+
+\setlist[itemize]{noitemsep, topsep=1pt, parsep=1pt, leftmargin=1.1em}
+
+\newcommand{\project}[2]{\textbf{#1}\hfill{\color{rulegray}\small #2}\par\vspace{1pt}}
+
+\begin{document}
+
+\begin{center}
+{\LARGE \textbf{Seamoon Pandey}}\\[2pt]
+{\color{rulegray}AI \& Backend Engineer}\\[3pt]
+\href{mailto:pandeyseamoon05@gmail.com}{pandeyseamoon05@gmail.com} \ \textbar\ \ 9866142928 \ \textbar\
+\href{https://github.com/seamoonpandey}{github.com/seamoonpandey} \ \textbar\
+\href{https://www.linkedin.com/in/seamoonpandey/}{linkedin.com/in/seamoonpandey}
+\end{center}
+
+\section*{Summary}
+
+AI \& Backend Engineer who builds production-grade systems end to end, from fine-tuned transformer models to the distributed services that serve them. Architected an AI-assisted security scanner pairing a DistilBERT classifier with a NestJS microservice backend on a 59k-sample dataset, with strengths across Python ML pipelines, TypeScript/Node backends, and real-time full-stack delivery.
+
+\section*{Technical Skills}
+
+\begin{itemize}
+\item \textbf{Languages:} Python, TypeScript, JavaScript, Ruby, C/C++, Dart
+\item \textbf{AI / ML:} PyTorch, Transformers (DistilBERT), XGBoost, YOLOv8, ONNX/TorchScript, feature engineering, model evaluation
+\item \textbf{Backend:} NestJS, FastAPI, Express.js, Flask, Ruby on Rails, REST, WebSocket/Socket.IO
+\item \textbf{Data \& Infra:} PostgreSQL, Redis, BullMQ, Docker, Docker Compose, microservices, async job queues
+\item \textbf{Frontend:} React, Next.js, Flutter
+\item \textbf{Security:} XSS detection, context-aware payload generation, fuzzing, WAF analysis, headless-browser verification (Playwright)
+\item \textbf{Practices:} system architecture, MVC, auth (JWT/API keys), e2e/unit testing, Git, Linux
+\end{itemize}
+
+\section*{Flagship Project}
+
+\project{RedSentinel: AI-Assisted XSS Vulnerability Scanner}{Final-year Capstone, Team of 3 \textbar\ \href{https://github.com/seamoonpandey/Xbow}{Code} \textbar\ \href{https://github.com/seamoonpandey/Xbow-report}{Report} \textbar\ \href{https://drive.google.com/file/d/1HZmdURP3l8JNoTyL40me_O1-8kat4Q9d/view?usp=sharing}{Demo}}
+\textit{Lead architect; owned the NestJS orchestration core and the end-to-end ML pipeline. Teammates built the fuzzer and obfuscation engines.}
+\begin{itemize}
+\item Architected a polyglot microservice system: a \textbf{TypeScript/NestJS} core orchestrating three \textbf{Python/FastAPI} AI services over a \textbf{Redis/BullMQ} job queue, with \textbf{PostgreSQL} persistence and a real-time \textbf{Next.js} dashboard (Socket.IO).
+\item Fine-tuned a \textbf{DistilBERT} multi-task classifier to label an injection point's context and severity, replacing brittle signature matching, and reached near-perfect accuracy on an \textbf{8,869-sample} held-out split of a deterministic, well-structured label space.
+\item Built the full ML pipeline on a \textbf{59,122-entry} curated XSS dataset: data curation, custom tokenizer training, multi-task training with checkpointing, evaluation, and an inference API with ONNX/TorchScript export and confidence calibration.
+\item Co-developed an \textbf{XGBoost} payload ranker (35 engineered features) to prioritize payloads by predicted effectiveness, with a heuristic fallback when the trained artifact is unavailable.
+\item Designed the NestJS core: scan lifecycle, crawler, BullMQ queue processor, audit logging, JWT/API-key auth, WebSocket streaming, and HTML/JSON/PDF report generation, backed by unit and e2e test suites.
+\end{itemize}
+
+\section*{Selected Projects}
+
+\project{AI Artifact Recognition Platform}{PEC Hackathon \textbar\ \textbf{YOLOv8}, Flask, React}
+\begin{itemize}
+\item Built a Flask backend and React dashboard for real-time, YOLOv8-based object recognition with asynchronous inference and structured monitoring endpoints.
+\end{itemize}
+
+\project{Community Connect}{OSM Hackathon \textbar\ Express.js, Flutter}
+\begin{itemize}
+\item Developed a full-stack event-coordination platform with REST APIs for real-time GPS-based attendance validation and event tracking.
+\end{itemize}
+
+\project{Garva Diary}{BMC InnovateX \textbar\ Ruby on Rails}
+\begin{itemize}
+\item Engineered backend APIs on a Rails MVC architecture with structured validation workflows and mobile integration.
+\end{itemize}
+
+\section*{Experience}
+
+\project{Freelance Full-Stack Developer}{Contract, Remote}
+\begin{itemize}
+\item Delivered production full-stack platforms on an \textbf{Express.js + React} stack, handling authentication, REST APIs, and third-party integrations:
+\begin{itemize}
+\item \textbf{Jyotisam:} astrology consultation and booking platform (\href{https://jyotisam.com}{jyotisam.com}).
+\item \textbf{Mahadaan:} donation and charity platform with secure data handling (\href{https://mahadaan.com}{mahadaan.com}).
+\end{itemize}
+\end{itemize}
+
+\project{Mentor, Call for Enthusiasts Program (i-CES)}{}
+\begin{itemize}
+\item Mentored students on building scalable applications with clean backend architecture and development practices.
+\end{itemize}
+
+\section*{Education}
+
+\textbf{Institute of Engineering, Tribhuvan University} \hfill 2022 to 2026\\
+Bachelor's in Computer Engineering, Pashchimanchal Campus, Pokhara \hfill
+
+\end{document}
